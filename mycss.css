@@ -1,0 +1,106 @@
+body{
+  margin: 0;
+  background-color: #91D8E4;
+  text-align: center;
+  font-family: 'Sevillana', cursive;
+  font-size: 2em;
+}
+h1
+{font-family: 'Chivo Mono', monospace;
+  font-size: 5rem;
+  margin: auto;
+  margin-top: 150px;
+
+}
+.topc
+{
+}
+.newi{
+  display: none;
+  width:20%;
+  position: relative;
+  right: 300px;
+  top: 100px;
+  background-color: #91D8E4;
+}
+.topi{
+  display: inline-block;
+  width: 200px;
+  position: relative;
+  left: 400px;
+  top: 100px;
+  margin: 0 auto;
+}
+
+
+.middlei{
+display: inline-block;
+  width:60%;
+  position: relative;
+  margin: auto;
+  margin-bottom: 0;
+  margin-top: 50px;
+}
+.prf{
+  display: inline-block;
+  width: 25%;
+  border-radius: 40%;
+  margin: 30px auto 0 auto;
+}
+.cricket{
+  display: block;
+  width: 25%;
+  border-radius: 40%;
+  margin: 30px auto 0 auto;
+  float: left;
+  margin-right: 30px;
+}
+
+
+.football{
+  display: block;
+  height: 60%;
+  border-radius: 30%;
+  margin: auto auto 0 auto;
+  float: right;
+  margin-left: 30px;
+}
+.skill2{
+  margin-top: 200px;
+
+}
+hr{
+  border: dotted #EAF6F6 6px;
+  border-bottom: none;
+  margin: 150px auto 30px auto;
+  width: 15%;
+
+}
+.bottom-container{
+  margin-top: 50px;
+  background-color: #3C6255;
+  padding: 30px 20px;
+}
+.btn{
+  background-color: #903C56;
+  color: #f8f9f9;
+  padding: 15px 30px;
+   font-family:  'Chivo Mono', monospace;
+
+}
+a{
+  margin:20px 20px;
+  text-decoration: none;
+
+}
+a:hover{
+  color: #E5E5CB;
+}
+h2{
+   font-family:  'Chivo Mono', monospace;
+
+}
+.para{
+  margin-top: 30px;
+  font-size: 1rem;
+}
